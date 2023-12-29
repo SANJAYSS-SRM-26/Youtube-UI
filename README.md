@@ -11,6 +11,7 @@ Open index.html in your preferred web browser to view the YouTube UI clone.
 Explore the structure and styles implemented using HTML and CSS files in the repository.
 
 # Preview: 
+![youtubeui](https://github.com/SANJAYSS-SRM-26/Youtube-UI/blob/main/preview%20(3).png)
 
 # Contributing:
 Contributions are welcome! If you find any bugs, issues, or have improvements to suggest, feel free to open an issue or create a pull request.
